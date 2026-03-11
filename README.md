@@ -3,7 +3,7 @@
 Tarih Ağacı, Türk tarihini dijital bir platforma taşıyan, kullanıcıların tarihi olayları interaktif bir ağaç yapısı üzerinden keşfedebileceği Full-Stack bir web uygulamasıdır. İçeriklerin dinamik olarak yönetilebildiği bir yönetici (Admin) paneline sahiptir.
 
 ## 🚀 Projenin Amacı
-Tarihsel verileri statik metinler yerine algoritmik ve görsel bir hiyerarşi ile sunmak. Proje, veri yönetimi, MVC mimarisi ve responsif ön yüz tasarımını bir araya getiren kapsamlı bir ürün geliştirme çalışmasıdır.
+Tarihsel verileri statik metinler yerine algoritmik ve görsel bir hiyerarşi ile sunmak. Projemiz, veri yönetimi, MVC mimarisi ve responsif ön yüz tasarımını bir araya getiren kapsamlı bir ürün geliştirme çalışmasıdır.
 
 ## 🛠️ Kullanılan Teknolojiler
 
